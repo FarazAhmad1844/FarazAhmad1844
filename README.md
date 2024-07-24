@@ -17,7 +17,7 @@
 
 
 <h3 align="left">Current Focus</h3>
-•	🔭 Currently working on Donation APPlication</br>
+•	🔭 Currently working on Donation Application</br>
 •	👯 Looking to collaborate on exciting projects that make a difference</br>
 
 <h3 align="left">Skills</h3>
