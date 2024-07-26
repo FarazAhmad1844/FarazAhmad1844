@@ -32,10 +32,7 @@
 Developed a donation app aimed at reducing waste by connecting donors with those in need. The platform allows donors to post available items and recipients to request them directly, ensuring transparency and efficiency. Key features include a user-friendly interface, direct interaction between donors and recipients, and real-time Chat, notifications for new posts and requests.</br></br>
 <h3 align="left">Library Management System - Desktop App  </h3></br>
 Developed a desktop application using .NET Framework to efficiently manage library records. The system maintains a comprehensive record of books and students, allowing for easy addition, update, and removal of entries. Key features include book check-in/check-out, search functionality, overdue notifications, and a user-friendly interface.</br></br>
-<h3 align="left">ATM Management System </h3></br>
 
-
-Developed an ATM Management System using only C++ that incorporates all basic ATM functionalities. The system supports account management, balance inquiries, cash withdrawals, deposits, and transaction history. It ensures secure and efficient handling of user transactions.</br></br>
 
 
 <h3 align="left">Connect with me:</h3>
