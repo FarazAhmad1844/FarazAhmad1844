@@ -7,7 +7,7 @@
 
 <h3 align="left">About ME</h3>
 
-•	🎓 Recent graduate with a degree in Information Technology </br>
+•	🎓 graduate with a degree in Information Technology </br>
 •	💻 Full-stack developer with a passion for creating efficient and scalable web and mobile applications</br>
 •	🌟 Skilled in React Native with a solid understanding of both front-end and back-end technologies</br>
 •	🚀 Always eager to learn new skills and technologies</br>
